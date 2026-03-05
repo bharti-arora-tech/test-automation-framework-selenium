@@ -1,21 +1,29 @@
 # test-automation-framework-selenium
 Enterprise-level UI automation framework built using Java, Selenium WebDriver, TestNG, and Page Object Model. Demonstrates scalable test architecture, reusable utilities, XPath strategies, and automation best practices used in modern quality engineering teams.
 
-This project demonstrates a scalable UI automation framework using:
 
-Java  
-Selenium WebDriver  
-TestNG  
-Page Object Model  
-Maven  
+# Selenium Automation Framework
 
-Key Features
+Tech Stack:
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- Page Object Model
 
-Reusable test architecture  
-Page Object Model design pattern  
-XPath based element handling  
-TestNG test execution  
-Scalable framework design  
+Automation Coverage:
+✔ Login automation
+✔ Add to cart flow
+✔ Explicit waits
+✔ Screenshot capture
+✔ Page Object Model design
+✔ Reusable utilities
+
+Framework Features:
+- Scalable architecture
+- Modular test design
+- CI/CD ready
+- Easy maintenance
 
 Purpose
 
